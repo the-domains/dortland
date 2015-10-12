@@ -13,6 +13,17 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors:
+    - '#f5f0ea'
+    - '#050608'
+    - '#c5b7aa'
+    - '#ad7c5b'
+    - '#654129'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: null
